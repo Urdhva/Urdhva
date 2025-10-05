@@ -1,6 +1,6 @@
 ![screenshot](shikimorifolkwidewide3.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Urdhva)
+![:name](https://count.getloli.com/@:Urdhva)
 <!--
 **Urdhva/Urdhva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
