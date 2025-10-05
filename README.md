@@ -1,6 +1,6 @@
-![screenshot](shikimorifolkwidewide3.png)
+<img width="1798" height="681" alt="image" src="https://github.com/user-attachments/assets/a85e1e21-6444-44fd-9922-87fe4d2b4ebf" />![screenshot](shikimorifolkwidewide3.png)
 
-![:name](https://count.getloli.com/@:Urdhva)
+![:name](https://count.getloli.com/@:Urdhva?theme=booru-vivi)
 <!--
 **Urdhva/Urdhva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
